@@ -1,0 +1,19 @@
+Bubble Sort
+Description		Only Sorting	Sorting and writing
+Integers 10k	0.298450	0.299745
+Integers 20k	1.216909	1.219065
+Integers 40k	4.984911	4.988850
+
+
+Quick Sort
+Description		Only Sorting	Sorting and writing
+Integers 10k	0.002283	0.003159
+Integers 20k	0.004601	0.006179
+Integers 40k	0.009285	0.012478
+Integers 80k	0.019312	0.026405
+Integers 160k	0.040934	0.053186
+Integers 320k	0.086485	0.113850
+Integers 640k	0.172661	0.231907
+Integers 1280k	0.358786	0.470577
+Integers 2560k	0.712619	0.925550
+Integers 5120k	1.468905	1.904660
